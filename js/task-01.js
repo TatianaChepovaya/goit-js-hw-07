@@ -1,7 +1,7 @@
 //ВАРИАНТ 1
 
-// const categoriesEl = document.querySelectorAll('li.item');
-// console.log(`В списке ${categoriesEl.length} категории:`);
+// const categoriesEl = document.querySelectorAll('#categories');
+// console.log(`В списке ${categoriesEl.children.length} категории:`);
 // const titleEl = document.querySelectorAll('h2');
 // titleEl.forEach(name => {
 //   console.log(`Категория: ${name.textContent}`);
